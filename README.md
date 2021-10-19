@@ -10,4 +10,4 @@ Then use the following command to start the server
 ```
 npm start
 ```
-You can see the swagger documentation in the following [Link](http://localhost:8001/api/v1/swagger) documentation
+You can see the swagger documentation in the following [Link](http://localhost:8001/api/v1/swagger)
